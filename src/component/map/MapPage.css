@@ -1,0 +1,23 @@
+.map-header {
+  
+  background-color: #009782;
+}
+#mapwize {
+  position: absolute; top:54px; bottom:0; left: 0; right: 0;
+}
+.nav-Back-button{
+  padding: 12px;
+  font-size: 30px;
+}
+.mapboxgl-ctrl-top-left {
+  visibility: hidden;
+}
+.header-title{
+  margin: 0;
+  position: absolute;
+  top: 4%;
+  left: 48%;
+  font-size: 25px;
+  font-weight: bold;
+  transform: translate(-50%, -50%);
+}
